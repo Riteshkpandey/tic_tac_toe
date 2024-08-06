@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.box {
+  border: 1px solid black;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-box {
+  display: flex;
+  width: 260px;
+  flex-wrap: wrap;
+}
